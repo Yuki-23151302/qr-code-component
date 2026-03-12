@@ -16,8 +16,8 @@ Agrega aquí una **captura de pantalla** del resultado final de tu componente.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/Yuki-23151302/qr-code-component)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://qr-code-component-yuki-23151302s-projects.vercel.app/)
+- **Repositorio en GitHub:** [https://github.com/Yuki-23151302/qr-code-component](https://github.com/Yuki-23151302/qr-code-component)
+- **Sitio desplegado (opcional):** [https://qr-code-component-yuki-23151302s-projects.vercel.app/](https://qr-code-component-yuki-23151302s-projects.vercel.app/)
 
 ---
 
