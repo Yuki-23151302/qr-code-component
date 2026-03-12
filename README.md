@@ -10,26 +10,26 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 ### 🧩 Vista previa del proyecto
 Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
 > Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
-
-![Vista previa del componente](./screenshot.jpg)
+![Vista previa del componente](image.png)
 
 ---
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/Yuki-23151302/qr-code-component)
+- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://qr-code-component-yuki-23151302s-projects.vercel.app/)
 
 ---
 
 ## 🧠 Proceso de desarrollo
 
 ### 🛠️ Tecnologías utilizadas
-Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
+Las herramientas y tecnologías utilizadas en el desarrollo de este proyecto fueron:
 
-- [Astro](https://astro.build)
-- [Tailwind CSS](https://tailwindcss.com/)
+- Astro
+- Tailwind CSS
 - HTML5 semántico
+- CSS
 - Diseño responsivo (Mobile-first)
 - Componentes reutilizables
 
